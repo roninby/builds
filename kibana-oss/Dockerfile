@@ -1,2 +1,2 @@
 FROM docker.elastic.co/kibana/kibana-oss:6.1.3
-MAINTAINER <gcps@gcps.lab>
+MAINTAINER GCPS <gcps@gcps.lab>
